@@ -1,3 +1,3 @@
 # project
 
-Project repo for STA 199 - Spring 2024.
+Project repo for STA 199 - Fall 2024.
