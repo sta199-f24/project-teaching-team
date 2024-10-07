@@ -3,8 +3,7 @@ title: Meet the team
 ---
 
 
-This project was developed by **\[team name aaa\]** For [STA 199: Introduction to Data Science](https://sta199-f24.github.io/) at Duke University.
-The team is comprised of the following team members.
+This project was developed by **\[team name ioy\]** For [STA 199: Introduction to Data Science](https://sta199-f24.github.io/) at Duke University.
 
 
 -   Name: One sentence description of Team member 1 (e.g., year, major, etc.). 
