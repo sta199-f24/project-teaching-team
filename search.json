@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "This project was developed by [team name ioy] For STA 199: Introduction to Data Science at Duke University.\n\nTeam member 1: One sentence description of Team member 1 (e.g., year, major, etc.).\nTeam member 2: One sentence description of Team member 2 (e.g., year, major, etc.).\nTeam member 3: One sentence description of Team member 3 (e.g., year, major, etc.).\nTeam member 4: One sentence description of Team member 4 (e.g., year, major, etc.).\n…"
+  },
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "Add project title here",
+    "section": "",
+    "text": "library(tidyverse)"
+  },
+  {
+    "objectID": "proposal.html#introduction-and-data",
+    "href": "proposal.html#introduction-and-data",
+    "title": "Add project title here",
+    "section": "Introduction and data",
+    "text": "Introduction and data\n\nIdentify the source of the data.\nState when and how it was originally collected (by the original data curator, not necessarily how you found the data).\nWrite a brief description of the observations."
+  },
+  {
+    "objectID": "proposal.html#research-question",
+    "href": "proposal.html#research-question",
+    "title": "Add project title here",
+    "section": "Research question",
+    "text": "Research question\n\nA well formulated research question. (You may include more than one research question if you want to receive feedback on different ideas for your project. However, one per data set is required.)\nA description of the research topic along with a concise statement of your hypotheses on this topic.\nIdentify the types of variables in your research question. Categorical? Quantitative?"
+  },
+  {
+    "objectID": "proposal.html#glimpse-of-data",
+    "href": "proposal.html#glimpse-of-data",
+    "title": "Add project title here",
+    "section": "Glimpse of data",
+    "text": "Glimpse of data\n\n# add code here"
+  },
+  {
+    "objectID": "proposal.html#introduction-and-data-1",
+    "href": "proposal.html#introduction-and-data-1",
+    "title": "Add project title here",
+    "section": "Introduction and data",
+    "text": "Introduction and data\n\nIdentify the source of the data.\nState when and how it was originally collected (by the original data curator, not necessarily how you found the data).\nWrite a brief description of the observations."
+  },
+  {
+    "objectID": "proposal.html#research-question-1",
+    "href": "proposal.html#research-question-1",
+    "title": "Add project title here",
+    "section": "Research question",
+    "text": "Research question\n\nA well formulated research question. (You may include more than one research question if you want to receive feedback on different ideas for your project. However, one per data set is required.)\nA description of the research topic along with a concise statement of your hypotheses on this topic.\nIdentify the types of variables in your research question. Categorical? Quantitative?"
+  },
+  {
+    "objectID": "proposal.html#glimpse-of-data-1",
+    "href": "proposal.html#glimpse-of-data-1",
+    "title": "Add project title here",
+    "section": "Glimpse of data",
+    "text": "Glimpse of data\n\n# add code here"
+  },
+  {
     "objectID": "contract.html",
     "href": "contract.html",
     "title": "Team contract",
@@ -61,62 +117,6 @@
     "title": "Add project title here",
     "section": "Discussion",
     "text": "Discussion\nIn this section you’ll include a summary of what you have learned about your research question along with statistical arguments supporting your conclusions. In addition, discuss the limitations of your analysis and provide suggestions on ways the analysis could be improved. Any potential issues pertaining to the reliability and validity of your data and appropriateness of the statistical analysis should also be discussed here. Lastly, this section will include ideas for future work."
-  },
-  {
-    "objectID": "proposal.html",
-    "href": "proposal.html",
-    "title": "Add project title here",
-    "section": "",
-    "text": "library(tidyverse)"
-  },
-  {
-    "objectID": "proposal.html#introduction-and-data",
-    "href": "proposal.html#introduction-and-data",
-    "title": "Add project title here",
-    "section": "Introduction and data",
-    "text": "Introduction and data\n\nIdentify the source of the data.\nState when and how it was originally collected (by the original data curator, not necessarily how you found the data).\nWrite a brief description of the observations."
-  },
-  {
-    "objectID": "proposal.html#research-question",
-    "href": "proposal.html#research-question",
-    "title": "Add project title here",
-    "section": "Research question",
-    "text": "Research question\n\nA well formulated research question. (You may include more than one research question if you want to receive feedback on different ideas for your project. However, one per data set is required.)\nA description of the research topic along with a concise statement of your hypotheses on this topic.\nIdentify the types of variables in your research question. Categorical? Quantitative?"
-  },
-  {
-    "objectID": "proposal.html#glimpse-of-data",
-    "href": "proposal.html#glimpse-of-data",
-    "title": "Add project title here",
-    "section": "Glimpse of data",
-    "text": "Glimpse of data\n\n# add code here"
-  },
-  {
-    "objectID": "proposal.html#introduction-and-data-1",
-    "href": "proposal.html#introduction-and-data-1",
-    "title": "Add project title here",
-    "section": "Introduction and data",
-    "text": "Introduction and data\n\nIdentify the source of the data.\nState when and how it was originally collected (by the original data curator, not necessarily how you found the data).\nWrite a brief description of the observations."
-  },
-  {
-    "objectID": "proposal.html#research-question-1",
-    "href": "proposal.html#research-question-1",
-    "title": "Add project title here",
-    "section": "Research question",
-    "text": "Research question\n\nA well formulated research question. (You may include more than one research question if you want to receive feedback on different ideas for your project. However, one per data set is required.)\nA description of the research topic along with a concise statement of your hypotheses on this topic.\nIdentify the types of variables in your research question. Categorical? Quantitative?"
-  },
-  {
-    "objectID": "proposal.html#glimpse-of-data-1",
-    "href": "proposal.html#glimpse-of-data-1",
-    "title": "Add project title here",
-    "section": "Glimpse of data",
-    "text": "Glimpse of data\n\n# add code here"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "This project was developed by [team name ioy] For STA 199: Introduction to Data Science at Duke University.\n\nName: One sentence description of Team member 1 (e.g., year, major, etc.).\nTeam member 2: One sentence description of Team member 2 (e.g., year, major, etc.).\nTeam member 3: One sentence description of Team member 3 (e.g., year, major, etc.).\nTeam member 4: One sentence description of Team member 4 (e.g., year, major, etc.).\n…"
   },
   {
     "objectID": "lab-8-about.html",
