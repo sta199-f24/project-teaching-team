@@ -1,5 +1,5 @@
 ---
-title: "This is a demo title for purposes of a merge conflict"
+title: "Meet the Team (Lab 8)!!!"
 ---
 
 
