@@ -7,7 +7,7 @@ This project was developed by **\[team name aaa\]** For [STA 199: Introduction t
 The team is comprised of the following team members.
 
 
--   Word: One sentence description of Team member 2 (e.g., year, major, etc.). 
+-   Name: One sentence description of Team member 2 (e.g., year, major, etc.). 
 -   Team member 2: One sentence description of Team member 2 (e.g., year, major, etc.).
 -   Team member 3: One sentence description of Team member 3 (e.g., year, major, etc.).
 -   Team member 4: One sentence description of Team member 4 (e.g., year, major, etc.).
