@@ -49,6 +49,41 @@
     "text": "Glimpse of data\n\n# add code here"
   },
   {
+    "objectID": "contract.html",
+    "href": "contract.html",
+    "title": "Team contract",
+    "section": "",
+    "text": "Teams work better when members have a common understanding of the team’s goals and expectations for collaboration. The purpose of this activity is to help your team making a plan for working together during lab and outside of the scheduled lab time. Each team member will have some ideas about how a team should operate. These ideas may be very different. This is your opportunity to share your thoughts and ideas to promote optimal team function and prevent misunderstandings in the future."
+  },
+  {
+    "objectID": "contract.html#meetings",
+    "href": "contract.html#meetings",
+    "title": "Team contract",
+    "section": "Meetings",
+    "text": "Meetings\n\nMeeting times: Identify a 1 - 2 hour weekly block outside of lab where the team can meet to work on assignments. All team members should block off this time on their calendar in case the team needs to meet to work on the project. Note: If you are unable to find a weekly time when the team can meet, briefly outline a plan to work on assignments outside of lab.\n\nDiscuss as a team and add your response here.\n\nMeeting location: Identify how or where the team will meet to work together (e.g. in-person, Zoom, Facetime, Google Hangouts). Be sure every member is able to access the in-person and/or virtual meeting space.\n\nDiscuss as a team and add your response here."
+  },
+  {
+    "objectID": "contract.html#communication",
+    "href": "contract.html#communication",
+    "title": "Team contract",
+    "section": "Communication",
+    "text": "Communication\n\nMethod of communication: Identify the team’s primary method of communication outside of meetings (e.g. GroupMe, Slack, text messages, etc.). Be sure all members are able to access the team’s chosen communication platform.\n\nDiscuss as a team and add your response here.\n\nNotifying team members: How should someone notify the other members if they are unable to attend lab or a scheduled team meeting?\n\nDiscuss as a team and add your response here."
+  },
+  {
+    "objectID": "contract.html#workflow",
+    "href": "contract.html#workflow",
+    "title": "Team contract",
+    "section": "Workflow",
+    "text": "Workflow\nWhile it’s not productive to divvy up the entire project work at the beginning and bring all the pieces together at the end, there will be times throughout the semester you might decide to divvy up smaller portions of the work among the team members.\n\nBy when should everyone have their portion of the work completed? Keep in mind your team will want to have time to review each portion before turning it in to make sure all pieces make sense together and any writing is cohesive.\n\nDiscuss as a team and add your response here.\n\nHow should team members communicate if they’re struggling with the portion of the work assigned to them?\n\nDiscuss as a team and add your response here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "This project was developed by [team name ioy] For STA 199: Introduction to Data Science at Duke University.\n\nTeam member 1: One sentence description of Team member 1 (e.g., year, major, etc.).\nTeam member 2: One sentence description of Team member 2 (e.g., year, major, etc.).\nTeam member 3: One sentence description of Team member 3 (e.g., year, major, etc.).\nTeam member 4: One sentence description of Team member 4 (e.g., year, major, etc.).\n…"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Add project title here",
@@ -82,47 +117,5 @@
     "title": "Add project title here",
     "section": "Discussion",
     "text": "Discussion\nIn this section you’ll include a summary of what you have learned about your research question along with statistical arguments supporting your conclusions. In addition, discuss the limitations of your analysis and provide suggestions on ways the analysis could be improved. Any potential issues pertaining to the reliability and validity of your data and appropriateness of the statistical analysis should also be discussed here. Lastly, this section will include ideas for future work."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "This project was developed by [team name ioy] For STA 199: Introduction to Data Science at Duke University.\n\nTeam member 1: One sentence description of Team member 1 (e.g., year, major, etc.).\nTeam member 2: One sentence description of Team member 2 (e.g., year, major, etc.).\nTeam member 3: One sentence description of Team member 3 (e.g., year, major, etc.).\nTeam member 4: One sentence description of Team member 4 (e.g., year, major, etc.).\n…"
-  },
-  {
-    "objectID": "contract.html",
-    "href": "contract.html",
-    "title": "Team contract",
-    "section": "",
-    "text": "Teams work better when members have a common understanding of the team’s goals and expectations for collaboration. The purpose of this activity is to help your team making a plan for working together during lab and outside of the scheduled lab time. Each team member will have some ideas about how a team should operate. These ideas may be very different. This is your opportunity to share your thoughts and ideas to promote optimal team function and prevent misunderstandings in the future."
-  },
-  {
-    "objectID": "contract.html#meetings",
-    "href": "contract.html#meetings",
-    "title": "Team contract",
-    "section": "Meetings",
-    "text": "Meetings\n\nMeeting times: Identify a 1 - 2 hour weekly block outside of lab where the team can meet to work on assignments. All team members should block off this time on their calendar in case the team needs to meet to work on the project. Note: If you are unable to find a weekly time when the team can meet, briefly outline a plan to work on assignments outside of lab.\n\nDiscuss as a team and add your response here.\n\nMeeting location: Identify how or where the team will meet to work together (e.g. in-person, Zoom, Facetime, Google Hangouts). Be sure every member is able to access the in-person and/or virtual meeting space.\n\nDiscuss as a team and add your response here."
-  },
-  {
-    "objectID": "contract.html#communication",
-    "href": "contract.html#communication",
-    "title": "Team contract",
-    "section": "Communication",
-    "text": "Communication\n\nMethod of communication: Identify the team’s primary method of communication outside of meetings (e.g. GroupMe, Slack, text messages, etc.). Be sure all members are able to access the team’s chosen communication platform.\n\nDiscuss as a team and add your response here.\n\nNotifying team members: How should someone notify the other members if they are unable to attend lab or a scheduled team meeting?\n\nDiscuss as a team and add your response here."
-  },
-  {
-    "objectID": "contract.html#workflow",
-    "href": "contract.html#workflow",
-    "title": "Team contract",
-    "section": "Workflow",
-    "text": "Workflow\nWhile it’s not productive to divvy up the entire project work at the beginning and bring all the pieces together at the end, there will be times throughout the semester you might decide to divvy up smaller portions of the work among the team members.\n\nBy when should everyone have their portion of the work completed? Keep in mind your team will want to have time to review each portion before turning it in to make sure all pieces make sense together and any writing is cohesive.\n\nDiscuss as a team and add your response here.\n\nHow should team members communicate if they’re struggling with the portion of the work assigned to them?\n\nDiscuss as a team and add your response here."
-  },
-  {
-    "objectID": "lab-8-about.html",
-    "href": "lab-8-about.html",
-    "title": "MNew ocnflict",
-    "section": "",
-    "text": "This project was developed by [team name ioy] For STA 199: Introduction to Data Science at Duke University.\n\nName: One sentence description of Team member 1 (e.g., year, major, etc.).\nTeam member 2: One sentence description of Team member 2 (e.g., year, major, etc.).\nTeam member 3: One sentence description of Team member 3 (e.g., year, major, etc.).\nTeam member 4: One sentence description of Team member 4 (e.g., year, major, etc.).\n…"
   }
 ]
