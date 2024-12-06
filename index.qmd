@@ -1,7 +1,6 @@
 ---
 title: Add project title here
 subtitle: Report
-toc:trueteaching-team
 execute:
   echo: false
 bibliography: references.bib
