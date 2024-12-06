@@ -19,9 +19,6 @@ website:
         href: about.qmd
       - text: Contract
         href: contract.qmd
-    left:
-      - icon: github
-        href: https://sta199-f24.github.io/project- teaching-team
 
 format:
   html:
